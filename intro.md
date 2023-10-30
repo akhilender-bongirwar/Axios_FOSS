@@ -1,20 +1,24 @@
-# Introduction
+# Introduction lol
 
 ## Personal Information
+
 - **Name:** Your Name
 - **Age:** Your Age
 - **Location:** Your Location
 - **Occupation:** Your Occupation
 
 ## About Me
-Hello, I'm [Your Name]. I'm passionate about [your interests or hobbies] and enjoy [mention something you enjoy doing]. I strive to [mention your goals or values] and [mention any relevant achievements or experiences]. 
+
+Hello, I'm [Your Name]. I'm passionate about [your interests or hobbies] and enjoy [mention something you enjoy doing]. I strive to [mention your goals or values] and [mention any relevant achievements or experiences].
 
 ## Achievements
+
 - I have achieved so on so..
 -
 -
 
 ## Contact
+
 - **Email:** [Your Email Address]
 - **LinkedIn:** [Your LinkedIn Profile]
 - **Website/Blog:** [Your Website/Blog URL]
