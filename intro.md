@@ -2,7 +2,7 @@
 
 ## Personal Information
 - **Name:** Your Name
-- **Age:** Your Age
+- **Age:** Your age
 - **Location:** Your Location
 - **Occupation:** Your Occupation
 
