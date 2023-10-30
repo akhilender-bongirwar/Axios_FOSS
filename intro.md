@@ -1,7 +1,7 @@
 # Introduction
 
 ## Personal Information
-- **Name:** Your Name
+- **Name:** Siri Maya Lalitha
 - **Age:** Your Age
 - **Location:** Your Location
 - **Occupation:** Your Occupation
